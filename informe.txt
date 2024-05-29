@@ -1,0 +1,4 @@
+Lineas totales: 1
+Palabras totales: 16
+Caracteres totales: 66
+Frecuencia de la palabra 'especial': 1
